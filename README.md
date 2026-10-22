@@ -1,34 +1,53 @@
+
+<div align="center">
+
 # Wafae Zouiten
 
-**AI & Data Science Engineering Student | Full-Stack Developer**
+### AI & Data Science Engineering Student | Full-Stack Developer
 
-I am a computer science graduate with a background in Full-Stack Web Development, currently pursuing engineering studies in Artificial Intelligence and Data Science.
+Building modern web applications and exploring AI-powered solutions.
 
-I enjoy developing web applications, solving technical problems, and exploring how AI can be integrated into practical software solutions.
-
-### Technical Skills
-
-- **Languages:** JavaScript, TypeScript, Python, SQL
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, REST APIs
-- **Databases:** MongoDB, SQL
-- **Tools:** Git, GitHub
-
-### Selected Projects
-
-- **Zvezda** — E-commerce application for women's clothing, built with React, Node.js, and MongoDB.
-- **DELF B2 Preparation Platform** — A web platform designed to help learners prepare for the DELF B2 French exam.
-
-### Current Focus
-
-- Developing modern, responsive web applications
-- Exploring AI-powered applications and data-driven solutions
-- Improving software engineering and problem-solving skills
-
-### Connect
-
-- LinkedIn: [[(https://www.linkedin.com/in/wafaezouiten)]]
+[LinkedIn](https://www.linkedin.com/in/wafaezouiten)
+</div>
 
 ---
 
-*Building practical solutions through software and continuous learning.*
+## About Me
+
+Computer science graduate with a background in Full-Stack Web Development, currently pursuing engineering studies in Artificial Intelligence and Data Science.
+
+Interested in software engineering, modern web technologies, and practical AI applications.
+
+## Technical Skills
+
+**Languages**  
+JavaScript · TypeScript · Python · SQL
+
+**Frontend**  
+React · Next.js · Tailwind CSS
+
+**Backend & Databases**  
+Node.js · REST APIs · MongoDB
+
+**Tools**  
+Git · GitHub
+
+## Featured Projects
+
+### DELF B2 Preparation Platform
+A web platform designed to help learners prepare for the DELF B2 French exam.
+
+`Next.js` `TypeScript` `AI`
+
+### Zvezda — E-commerce
+An online store for women's clothing with product, user, and order management.
+
+`React` `Node.js` `MongoDB`
+
+---
+
+<div align="center">
+
+*Building practical solutions through code and continuous learning.*
+
+</div>
